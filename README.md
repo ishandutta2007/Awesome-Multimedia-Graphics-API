@@ -58,9 +58,9 @@ Key technologies covered include **Vulkan, Metal, Direct3D 12, WebGPU, OpenGL, W
 
 The open-source graphics ecosystem is production-proven and powers everything from Linux desktop gaming (Steam Deck / SteamOS) to web browsers (Chromium, Firefox).
 
-*Projects are sorted by GitHub Star Count (Descending).*
+*Projects are sorted by GitHub Stars_Count (Descending).*
 
-| Repo | Stars | Description |
+| Repo | GitHub_Stars | Description |
 |------|-------|-------------|
 | **[wgpu](https://github.com/gfx-rs/wgpu)** | [![wgpu Stars](https://img.shields.io/github/stars/gfx-rs/wgpu?style=social&color=white)](https://github.com/gfx-rs/wgpu/stargazers) | **Rust implementation of WebGPU.** Cross-platform, safe, and portable GPU abstraction in Rust. Supports Vulkan, Metal, D3D12, and OpenGL backends. Used by Firefox and Rust graphics applications. **MIT/Apache-2.0**. |
 | **[Mesa](https://gitlab.freedesktop.org/mesa/mesa)** | [![Mesa Stars](https://img.shields.io/gitlab/stars/mesa/mesa?style=social&color=white)](https://gitlab.freedesktop.org/mesa/mesa) | **The open-source graphics stack for Linux and SteamOS.** Implements **OpenGL, OpenGL ES, Vulkan, OpenCL** across NVIDIA, AMD, Intel, ARM, and Qualcomm ecosystems. Includes **Lavapipe** (software Vulkan) and **Venus** (virtualized Vulkan). **MIT**. |
@@ -81,7 +81,7 @@ Contributions are always welcome!
 
 1. Fork this repository.
 2. Add or update entries in `README.md` (ensure formatting matches existing tables).
-3. Ensure open-source entries include a star badge linking to the repository's stargazers page.
+3. Ensure open-source entries include a Stars_Badge linking to the repository's stargazers page.
 4. Submit a Pull Request with a clear description of your changes.
 
 For curated lists guidelines, visit [Awesome Awesome Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
